@@ -5,8 +5,8 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: D:/git_ssh/SVHN_yolo/mycoco/images/train/
-val: D:/git_ssh/SVHN_yolo/mycoco/images/val/
+train: ../mycoco/images/train/
+val: ../mycoco/images/val/
 
 # number of classes
 nc: 10
